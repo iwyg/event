@@ -1,5 +1,7 @@
 # Event Dispatcher Library
 
+This repository is deprecated and unmaintained, please use [Lucid\Signal](https://github.com/lucidphp/signal) instead.
+
 [![Author](http://img.shields.io/badge/author-iwyg-blue.svg?style=flat-square)](https://github.com/iwyg)
 [![Source Code](http://img.shields.io/badge/source-lucid/event-blue.svg?style=flat-square)](https://github.com/iwyg/event/tree/master)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/iwyg/jitimage/blob/develop/LICENSE.md)  
